@@ -2,4 +2,4 @@
     enableCORS = false
 
 [env]
-NLTK_DATA = "/tmp"
+NLTK_DATA = "/tmp/nltk_data"
