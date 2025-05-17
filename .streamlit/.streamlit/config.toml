@@ -2,4 +2,5 @@
     enableCORS = false
 
 [env]
-NLTK_DATA = "/tmp/nltk_data"
+NLTK_DATA = "/tmp"
+LLAMA_DISABLE_NLTK = "True"
