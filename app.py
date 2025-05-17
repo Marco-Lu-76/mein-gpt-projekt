@@ -32,3 +32,4 @@ try:
     nltk.data.find('corpora/stopwords')
 except LookupError:
     nltk.download('stopwords', download_dir="/tmp")
+
