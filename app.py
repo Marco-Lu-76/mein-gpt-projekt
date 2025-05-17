@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 from chatbot.query_engine import ask_question
 
